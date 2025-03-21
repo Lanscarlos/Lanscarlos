@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-爱发电：https://afdian.net/a/lanscarlos
+爱发电：[https://afdian.net/a/lanscarlos](https://afdian.tv/a/lanscarlos)
 <!--
 **Lanscarlos/Lanscarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
